@@ -1,0 +1,19 @@
+@media(max-width:465px) {
+    .header-item img a span{
+        width: 100%;
+    }
+   
+    .header-item {
+        display: none;
+        gap: 10px;
+    }
+    
+    .item2:nth-child(2) img {
+        border-radius: 100%;
+        display: none;
+    }
+   #funda a{
+    margin-left: 10px;
+    background-color: red;
+   }
+}
