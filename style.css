@@ -318,7 +318,7 @@ span select:hover{
     background-color: #F2F2F2;
 }
 .down-arrow{
-    transform: translate(730px, 60px);
+    transform: translate(650px, 60px);
     scroll-behavior: smooth;
     overflow-y: hidden;
 }
